@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jqplot-test.iml" filepath="$PROJECT_DIR$/.idea/modules/jqplot-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jqplot-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jqplot-test_main.iml" group="jqplot-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jqplot-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jqplot-test_test.iml" group="jqplot-test" />
+    </modules>
+  </component>
+</project>
